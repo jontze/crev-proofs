@@ -1,0 +1,19 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2022-05-23T23:33:20.998720225+02:00"
+from:
+  id-type: crev
+  id: LQpwnjZMxhaF8uO32BVDh3fPSEVOj8_4UmgTYRF9gYo
+  url: "https://github.com/jontze/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: |-
+  Author of cargo crev
+----- SIGN CREV PROOF -----
+6Ruj8PfE6IkyDBbKCxNiACkyj6RzcDqj4xZrXB-2LiahScwEfUrK3jYkBKBTZcxFHJorh5IQHxLMz57458kYCg
+----- END CREV PROOF -----
+
